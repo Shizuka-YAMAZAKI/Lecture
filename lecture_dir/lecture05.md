@@ -19,7 +19,7 @@
 ## nginx+unicorn　デプロイ
 
  ![ReRe_nginx_unicorn_command](./ReRe_nginx_unicorn_command.png)
- ![ReRe_nginx_unicorn](./ReRe_nginx_unicorn.png)
+ ![ReReRe_nginx_unicorn](./ReReRe_nginx_unicorn.png)
 
 
 ## ALB追加
