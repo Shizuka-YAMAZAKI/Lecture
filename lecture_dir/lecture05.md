@@ -18,14 +18,14 @@
 
 ## nginx+unicorn　デプロイ
 
- ![Re_Nginx_unicorn_command](./Re_Nginx_unicorn_command.png)
- ![Re_Nginx_unicorn](./Re_Nginx_unicorn.png)
+ ![ReRe_nginx_unicorn_command](./ReRe_nginx_unicorn_command.png)
+ ![ReRe_nginx_unicorn](./Re_Nginx_unicorn.png)
 
 
 ## ALB追加
 
- ![Re_ALB_Command](./Re_ALB_Command.png)
- ![Re_ALB](./Re_ALB.png)
+ ![ReRe_ALB_command](./ReRe_ALB_command.png)
+ ![ReRe_ALB](./ReRe_ALB.png)
  ![ALB_set](./ALB_set.png)
 
 
